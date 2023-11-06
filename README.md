@@ -76,7 +76,7 @@ Enter the quantum realm and explore the limitless possibilities of science:
 from sadaa import GenerateStoryWords
 
 story_generator = GenerateStoryWords(num_words=70, num_stories=2, type="quantum")
-stories = story_generator generate_stories()
+stories = story_generator.generate_stories()
 
 for i, story in enumerate(stories, start=1):
     print(f"Quantum Story {i}:\n{story}\n")
