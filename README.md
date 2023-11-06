@@ -2,11 +2,14 @@
 
 Unleash Your Imagination with Sadaa!
 
-![img1](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/ecaa76685cd799e2445aab18638d7dd4.png?raw=true)
+
+![img1](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/6c9ec14e076ac4663afea598867a367b.png?raw=true)
+
 
 The Sadaa package is not just a Python library; it's a portal to infinite worlds of imagination. Dive into the universe of science fiction and embark on epic journeys with the power of words.
 
-![img2](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/d6f73659b9c5f09d019c8b0c8bd6f9fc.png?raw=true)
+![img2](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/ecaa76685cd799e2445aab18638d7dd4.png?raw=true)
+
 
 ## Table of Contents
 
@@ -56,6 +59,8 @@ stories = story_generator.generate_stories()
 akikiki_story_generator = AkikikiStoryGenerator(num_stories=3)  # Unlock the secrets of Akikiki with 3 captivating stories
 akikiki_stories = akikiki_story_generator.generate_stories()
 ```
+
+![img2](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/d6f73659b9c5f09d019c8b0c8bd6f9fc.png?raw=true)
 
 ## Examples
 
