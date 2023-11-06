@@ -10,7 +10,7 @@ setup(
         'Operating System :: OS Independent',
     ],
     author='Ishan Oshada',
-    author_email='ishan.kodithuwakku.com',
+    author_email='ic31908@gamil.com',
     description='A package for generating random stories.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
