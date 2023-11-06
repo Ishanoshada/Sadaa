@@ -890,6 +890,3 @@ class MoonStoryGenerator:
                 stories.append(new_story)
 
         return stories
-
-
-print(MoonStoryGenerator(2).generate_stories())
