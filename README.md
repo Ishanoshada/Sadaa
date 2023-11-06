@@ -159,7 +159,7 @@ for i, story in enumerate(stories, start=1):
 Ready for an epic quantum journey? Generate a quantum-inspired story:
 
 ```python
-quantum_story = story_generator.generate_story()
+quantum_story = GenerateStoryWords(200,type="quantum").generate_story()
 
 print(quantum_story)
 ```
